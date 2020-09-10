@@ -1,1 +1,6 @@
 Fitxer de text creat per l'exercici 1.
+
+
+
+
+Nova línea afegida per "Master" després del Commit&Push de "Branch1"
